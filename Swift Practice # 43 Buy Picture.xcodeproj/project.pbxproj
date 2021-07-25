@@ -24,6 +24,7 @@
 		5D4FD7C826AD281900E63C1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D4FD7CB26AD281900E63C1B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D4FD7CD26AD281900E63C1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D4FD7D426AD349600E63C1B /* HanyiSentyBubbleTea.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentyBubbleTea.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		5D4FD7BE26AD281500E63C1B /* Swift Practice # 43 Buy Picture */ = {
 			isa = PBXGroup;
 			children = (
+				5D4FD7D426AD349600E63C1B /* HanyiSentyBubbleTea.ttf */,
 				5D4FD7BF26AD281500E63C1B /* AppDelegate.swift */,
 				5D4FD7C126AD281500E63C1B /* SceneDelegate.swift */,
 				5D4FD7C326AD281500E63C1B /* ViewController.swift */,
